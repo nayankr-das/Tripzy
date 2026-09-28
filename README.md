@@ -1,2 +1,5 @@
 # Tripzy
-Ride booking app with some most important user-friendly features
+Ride booking app with some most important user-friendly features 
+
+springboot used initially
+
